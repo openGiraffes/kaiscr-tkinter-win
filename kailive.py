@@ -1,9 +1,9 @@
 import threading
 import time
-import kaios_screenshot
+import kaiscr
 from gi.repository import Gtk, GdkPixbuf, GLib
 
-takescreenshot = kaios_screenshot.TakeScreenshot().screenshot
+takescreenshot = kaiscr.TakeScreenshot().screenshot
 window = Gtk.Window()
 window.connect("destroy", Gtk.main_quit)
 img = None
