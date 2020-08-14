@@ -25,7 +25,8 @@ def update_pic():
 
 t = threading.Thread(target=update_pic)
 t.start()
-time.sleep(0.5)
+while not img:
+    time.sleep(0.1)
 window.add(img)
 window.show_all()
 Gtk.main()
