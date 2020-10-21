@@ -30,7 +30,6 @@ def update_pic():
         while not stop:
             loader = GdkPixbuf.PixbufLoader()
             png = screenshot()
-            print(png)
             loader.write(png)
             pb = loader.get_pixbuf()
             if not img:
