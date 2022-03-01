@@ -1,3 +1,7 @@
+This version of kaiscr is used by tkinter and can run in windows(use kailive-tk.py).
+
+The source project is https://notabug.org/farooqkz/kaiscr
+
 # KaiScr
 ## Small Python scripts to take screenshot from a KaiOS/FFOS device and to mirror the screen of your phone.
 
