@@ -1,5 +1,7 @@
 This version of kaiscr is written by tkinter and can run in windows(use kailive-tk.py).
 
+"kailive-tk-speed.py" is speed optimization version.
+
 The source project is https://notabug.org/farooqkz/kaiscr
 
 # KaiScr
