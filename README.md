@@ -1,4 +1,4 @@
-This version of kaiscr is used by tkinter and can run in windows(use kailive-tk.py).
+This version of kaiscr is written by tkinter and can run in windows(use kailive-tk.py).
 
 The source project is https://notabug.org/farooqkz/kaiscr
 
